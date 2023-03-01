@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6a865e91605ca76142bfd4b347c62658cd2c49e92650267cf18ec9be62d058e2"
+build_start_time: [1677695019, 208742141]
+build_end_time: [1677695019, 718907833]
+inputs:
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/AppDelegate.swift": [1677691617, 387845993]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/SceneDelegate.swift": [1677695019, 130327224]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/View/Entity.swift": [1677694901, 311472415]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/View/Interactor.swift": [1677694738, 178575038]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/View/Presenter.swift": [1677694816, 793969869]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/View/Router.swift": [1677695013, 21538496]
+  "/Users/itunu/Documents/protocol-based-viper/protocol-based-viper/View/View.swift": [1677694046, 499934673]
